@@ -200,6 +200,7 @@ ShopNow/
 ### System Process Models
 
 > -   **SYSTEM CONTEXT DIAGRAM**
+
 Shows the boundaries between users (Customers, Admins), the Flask application engine, and the MySQL storage layer.
    
    <img src="images/context_diagram.png">
