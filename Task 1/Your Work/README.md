@@ -211,7 +211,7 @@ ShopNow/
 
 The database schema maps out how entities connect to handle user sessions, dynamic carts, order processing, and payment simulations.
 
-   <img src="ER-Diagram.png">
+   <img src="images/ER-Diagram.png">
    
 ----------
 
