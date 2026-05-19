@@ -207,7 +207,7 @@ ShopNow/
 
 ----------
 
-### Entity-Relationship Diagram (ERD)
+> - **Entity-Relationship Diagram (ERD)**
 
 The database schema maps out how entities connect to handle user sessions, dynamic carts, order processing, and payment simulations.
 
